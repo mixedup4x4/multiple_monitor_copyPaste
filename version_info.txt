@@ -1,0 +1,9 @@
+# version_info.txt
+FileVersion=1.0.0
+ProductVersion=1.0.0
+FileDescription=A cross-platform clipboard manager for multiple monitors
+InternalName=CopyPasteMonitor
+OriginalFilename=CopyPasteMonitor.exe
+ProductName=Copy Paste Monitor
+CompanyName=Feral Creations
+LegalCopyright=© 2025 morsnoctus
